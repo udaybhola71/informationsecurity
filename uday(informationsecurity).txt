@@ -1,0 +1,24 @@
+Information Security Techniques
+1- Documents or Files Encryption
+Encryption is the process of converting information. Also, it is in an unreadable form. It is by anyone other than the intended recipient in the system.
+Encryption uses by itself or in conjunction with other security measures.
+2-Access Control 
+Access control is a process. It is in which a system limits access to information-based. Also, it is on the identity of the user. 
+Most document management systems allow administrators to regulate access to digital documents at both the folder and document levels.
+3- Digital Rights Management (DRM)
+The use of technologies and methods to restrict the use of copyrighted digital assets is known as digital rights management. DRM tools are intended to safeguard the copyright holder’s rights and prohibit illegal modification or distribution.
+ Implementing DRM will make your documents more secure because the document must be authorized before being opened.
+4- Watermarking
+A watermark may be thought of as a stamp in the form of text or an image that has been added statically or dynamically to the original document.
+Watermarking should be used to encourage safe user behavior in document security.
+5-Firewalls
+A firewall is a security device that places. It is between a trusted and secure network. Also, untrusted and insecure network. 
+Its purpose is to prevent unauthorized access. To what? It is to the information within the secure network. Also, it can prevent information from sending outside the secure network. 
+
+6-Accessibility
+Information should be easily accessible. To what? It is to those who need to use it. But it should be difficult for those who do not have permission to access it. 
+Accessibility gives by the operating system. In Windows, for example, files marks as read-only, which means that users will not be able to change the contents of the file. 
+
+7- Metadata Based Document Security
+Some market-available solutions allow you to establish granular permissions on document metadata. For example, you may provide two workers access to the document, but each of them would be able to see a distinct set of information.
+This is especially useful when you need to hide important information on a document, such as salaries, budget, and net profit, from everyone except department leaders.
